@@ -1,6 +1,6 @@
 /**
   ******************************************************************************
-  * @file    	linked_list.h
+  * @file    	csmkll.h
   * @author		Claude Stephane M. Kouame
   * @version 	V1.0
   * @date		Oct 10, 2021
@@ -8,8 +8,8 @@
   * feel free to use it as you wish ;-)
   ******************************************************************************
 */
-#ifndef LINKEDLIST_H
-#define LINKEDLIST_H
+#ifndef CSMKLL_H
+#define CSMKLL_H
 
 #include <stdlib.h>
 #include <stdio.h>
@@ -31,4 +31,4 @@ void ll_clear(LinkedList*);
 void ll_print(LinkedList*);
 
 
-#endif /* LINKEDLIST_H */
+#endif /* CSMKLL_H */

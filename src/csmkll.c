@@ -1,6 +1,6 @@
 /**
   ******************************************************************************
-  * @file    	linked_list.c
+  * @file    	csmkll.c
   * @author		Claude Stephane M. Kouame
   * @version 	V1.0
   * @date		Oct 10, 2021
@@ -8,7 +8,7 @@
   * feel free to use it as you wish ;-)
   ******************************************************************************
 */
-#include "linked_list.h"
+#include "csmkll.h"
 
 /**
  * @brief LinkedList initialiser
